@@ -1,0 +1,26 @@
+{
+  "name": "vsymfo-js-core",
+  "author": {
+    "name": "Rafał Mikołajun"
+  },
+  "license": "LGPL-3.0",
+  "version": "0.0.1",
+  "description": "JavaScript core for Virtus Symfony CMF.",
+  "keywords": [
+    "vsymfo"
+  ],
+  "main": "src",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikoweb/vsymfo-js-core.git"
+  },
+  "engines": {
+    "node": ">4.2.0"
+  },
+  "files": [
+    "src",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ]
+}
